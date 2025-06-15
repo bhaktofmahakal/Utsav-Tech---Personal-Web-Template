@@ -6,8 +6,7 @@ Do not remove the back-link in this web template
 -------------------------------------------------------*/
 
 @charset "utf-8";
-@import url(http://fonts.googleapis.com/css?family=Raleway:800,700,400);
-@import url(http://fonts.googleapis.com/css?family=Signika:400,600);
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Raleway:wght@400;700;800&family=Signika:wght@400;600&display=swap');
 
 /* Reset
 ---------------------------------*/
